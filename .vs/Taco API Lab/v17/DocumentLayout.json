@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ramses\\source\\repos\\Grand Circus\\Taco API Lab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A6E77739-8D3D-48E6-B309-DFFF0B4223ED}|Taco API Lab\\Taco API Lab.csproj|c:\\users\\ramses\\source\\repos\\grand circus\\taco api lab\\taco api lab\\model\\drink.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6E77739-8D3D-48E6-B309-DFFF0B4223ED}|Taco API Lab\\Taco API Lab.csproj|solutionrelative:taco api lab\\model\\drink.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6E77739-8D3D-48E6-B309-DFFF0B4223ED}|Taco API Lab\\Taco API Lab.csproj|c:\\users\\ramses\\source\\repos\\grand circus\\taco api lab\\taco api lab\\controllers\\drinkscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6E77739-8D3D-48E6-B309-DFFF0B4223ED}|Taco API Lab\\Taco API Lab.csproj|solutionrelative:taco api lab\\controllers\\drinkscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6E77739-8D3D-48E6-B309-DFFF0B4223ED}|Taco API Lab\\Taco API Lab.csproj|c:\\users\\ramses\\source\\repos\\grand circus\\taco api lab\\taco api lab\\model\\taco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6E77739-8D3D-48E6-B309-DFFF0B4223ED}|Taco API Lab\\Taco API Lab.csproj|solutionrelative:taco api lab\\model\\taco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6E77739-8D3D-48E6-B309-DFFF0B4223ED}|Taco API Lab\\Taco API Lab.csproj|c:\\users\\ramses\\source\\repos\\grand circus\\taco api lab\\taco api lab\\controllers\\tacoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6E77739-8D3D-48E6-B309-DFFF0B4223ED}|Taco API Lab\\Taco API Lab.csproj|solutionrelative:taco api lab\\controllers\\tacoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6E77739-8D3D-48E6-B309-DFFF0B4223ED}|Taco API Lab\\Taco API Lab.csproj|c:\\users\\ramses\\source\\repos\\grand circus\\taco api lab\\taco api lab\\model\\fastfoodtacodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6E77739-8D3D-48E6-B309-DFFF0B4223ED}|Taco API Lab\\Taco API Lab.csproj|solutionrelative:taco api lab\\model\\fastfoodtacodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Drink.cs",
+              "DocumentMoniker": "C:\\Users\\Ramses\\source\\repos\\Grand Circus\\Taco API Lab\\Taco API Lab\\Model\\Drink.cs",
+              "RelativeDocumentMoniker": "Taco API Lab\\Model\\Drink.cs",
+              "ToolTip": "C:\\Users\\Ramses\\source\\repos\\Grand Circus\\Taco API Lab\\Taco API Lab\\Model\\Drink.cs",
+              "RelativeToolTip": "Taco API Lab\\Model\\Drink.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T18:26:54.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DrinksController.cs",
+              "DocumentMoniker": "C:\\Users\\Ramses\\source\\repos\\Grand Circus\\Taco API Lab\\Taco API Lab\\Controllers\\DrinksController.cs",
+              "RelativeDocumentMoniker": "Taco API Lab\\Controllers\\DrinksController.cs",
+              "ToolTip": "C:\\Users\\Ramses\\source\\repos\\Grand Circus\\Taco API Lab\\Taco API Lab\\Controllers\\DrinksController.cs",
+              "RelativeToolTip": "Taco API Lab\\Controllers\\DrinksController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T18:17:35.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Taco.cs",
+              "DocumentMoniker": "C:\\Users\\Ramses\\source\\repos\\Grand Circus\\Taco API Lab\\Taco API Lab\\Model\\Taco.cs",
+              "RelativeDocumentMoniker": "Taco API Lab\\Model\\Taco.cs",
+              "ToolTip": "C:\\Users\\Ramses\\source\\repos\\Grand Circus\\Taco API Lab\\Taco API Lab\\Model\\Taco.cs",
+              "RelativeToolTip": "Taco API Lab\\Model\\Taco.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T18:05:34.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TacosController.cs",
+              "DocumentMoniker": "C:\\Users\\Ramses\\source\\repos\\Grand Circus\\Taco API Lab\\Taco API Lab\\Controllers\\TacosController.cs",
+              "RelativeDocumentMoniker": "Taco API Lab\\Controllers\\TacosController.cs",
+              "ToolTip": "C:\\Users\\Ramses\\source\\repos\\Grand Circus\\Taco API Lab\\Taco API Lab\\Controllers\\TacosController.cs",
+              "RelativeToolTip": "Taco API Lab\\Controllers\\TacosController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAA1wCUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T18:00:22.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FastFoodTacoDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Ramses\\source\\repos\\Grand Circus\\Taco API Lab\\Taco API Lab\\Model\\FastFoodTacoDbContext.cs",
+              "RelativeDocumentMoniker": "Taco API Lab\\Model\\FastFoodTacoDbContext.cs",
+              "ToolTip": "C:\\Users\\Ramses\\source\\repos\\Grand Circus\\Taco API Lab\\Taco API Lab\\Model\\FastFoodTacoDbContext.cs",
+              "RelativeToolTip": "Taco API Lab\\Model\\FastFoodTacoDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T17:59:18.619Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

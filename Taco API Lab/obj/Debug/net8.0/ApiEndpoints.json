@@ -1,0 +1,135 @@
+[
+  {
+    "ContainingType": "Taco_API_Lab.Controllers.DrinksController",
+    "Method": "AllDrinks",
+    "RelativePath": "api/Drinks",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "SortByCost",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Taco_API_Lab.Controllers.DrinksController",
+    "Method": "AddDrink",
+    "RelativePath": "api/Drinks",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "newDrink",
+        "Type": "Taco_API_Lab.Model.Drink",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Taco_API_Lab.Controllers.DrinksController",
+    "Method": "GetDrinks",
+    "RelativePath": "api/Drinks/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Taco_API_Lab.Controllers.DrinksController",
+    "Method": "UpdateDrink",
+    "RelativePath": "api/Drinks/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "targetDrink",
+        "Type": "Taco_API_Lab.Model.Drink",
+        "IsRequired": true
+      },
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Taco_API_Lab.Controllers.TacosController",
+    "Method": "AllTacos",
+    "RelativePath": "api/Tacos",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "softshell",
+        "Type": "System.Nullable\u00601[[System.Boolean, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Taco_API_Lab.Controllers.TacosController",
+    "Method": "AddTaco",
+    "RelativePath": "api/Tacos",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "newTaco",
+        "Type": "Taco_API_Lab.Model.Taco",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Taco_API_Lab.Controllers.TacosController",
+    "Method": "GetTacos",
+    "RelativePath": "api/Tacos/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Taco_API_Lab.Controllers.TacosController",
+    "Method": "DeleteTaco",
+    "RelativePath": "api/Tacos/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
